@@ -10,6 +10,7 @@ import java.util.Map;
  * Given an array of integers, return indices of the two numbers such that they add up to a specific target.
  *
  * You may assume that each input would have exactly one solution, and you may not use the same element twice.
+ *
  * <br>
  * Copyright: Copyright (c) 2019<br>
  * Company：北京云杉世界信息技术有限公司<br>
