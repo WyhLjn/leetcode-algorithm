@@ -13,7 +13,6 @@ import java.util.Map;
  *
  * <br>
  * Copyright: Copyright (c) 2019<br>
- * Company：北京云杉世界信息技术有限公司<br>
  *
  * @author wyh
  * @date 2019年01月17日 18:20:00
