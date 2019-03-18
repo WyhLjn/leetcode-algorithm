@@ -9,7 +9,6 @@ package com.wyh.me.leetcode.easy;
  * If there is no common prefix, return an empty string "".<br>
  *
  * Copyright: Copyright (c) 2019<br>
- * Company：北京云杉世界信息技术有限公司<br>
  *
  * @author wyh
  * @date 2019年01月22日 18:02:00
